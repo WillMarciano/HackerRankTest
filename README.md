@@ -18,6 +18,6 @@ Possible HackerRank solutions with c# language using .net framework 4.8.1
 |5|[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|[C#](https://github.com/WillMarciano/HackerRankTest/tree/master/Warmup/DiagonalDifference/Program.cs)|Easy|10|
 |6|[Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem)|[C#](https://github.com/WillMarciano/HackerRankTest/tree/master/Warmup/PlusMinus/Program.cs)|Easy|10|
 |7|[Staircase](https://www.hackerrank.com/challenges/staircase/problem)|[C#](https://github.com/WillMarciano/HackerRankTest/tree/master/Warmup/Staircase/Program.cs)|Easy|10|
-|8|[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|[C#](https://github.com/WillMarciano/HackerRankTest/tree/master/Warmup/MiniMaxSum/Program.cs|Easy|10|
+|8|[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|[C#](https://github.com/WillMarciano/HackerRankTest/tree/master/Warmup/MiniMaxSum/Program.cs)|Easy|10|
 |9|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|[C#](https://github.com/WillMarciano/HackerRankTest/tree/master/Warmup/BirthdayCakeCandles/BirthdayCakeCandles/Program.cs)|Easy|10|
 |10|[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|[C#](https://github.com/WillMarciano/HackerRankTest/tree/master/Warmup/BirthdayCakeCandles/TimeConversion/Program.cs)|Easy|15|
