@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniMaxSum", "Warmup\MiniMa
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08 - MiniMaxSum", "08 - MiniMaxSum", "{9FB7CC31-277B-4093-999D-BC427FB01245}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09 - Birthday Cake Candles", "09 - Birthday Cake Candles", "{9944A03C-BDD0-427E-A13C-ACA16F331BEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayCakeCandles", "Warmup\BirthdayCakeCandles\BirthdayCakeCandles.csproj", "{F9A641AD-6517-498F-B05E-E0D86CE754E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +23,10 @@ Global
 		{EB219B77-BEA1-4995-91C0-FC040753B30B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB219B77-BEA1-4995-91C0-FC040753B30B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB219B77-BEA1-4995-91C0-FC040753B30B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9A641AD-6517-498F-B05E-E0D86CE754E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A641AD-6517-498F-B05E-E0D86CE754E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A641AD-6517-498F-B05E-E0D86CE754E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A641AD-6517-498F-B05E-E0D86CE754E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -26,6 +34,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{EB219B77-BEA1-4995-91C0-FC040753B30B} = {9FB7CC31-277B-4093-999D-BC427FB01245}
 		{9FB7CC31-277B-4093-999D-BC427FB01245} = {E725F34B-E294-4C3A-A152-5DA0EE69EAFD}
+		{9944A03C-BDD0-427E-A13C-ACA16F331BEB} = {E725F34B-E294-4C3A-A152-5DA0EE69EAFD}
+		{F9A641AD-6517-498F-B05E-E0D86CE754E1} = {9944A03C-BDD0-427E-A13C-ACA16F331BEB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3F923A44-4BC8-42A0-A203-13B5E60CBB4C}
