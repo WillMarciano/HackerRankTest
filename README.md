@@ -5,6 +5,7 @@ Possible HackerRank solutions with c# language using .net framework 4.8.1
 
 ## Algorithms
 - [Warmup](#warmup)
+- [Implementation](#implementation)
 
 
 ### Warmup
@@ -21,3 +22,10 @@ Possible HackerRank solutions with c# language using .net framework 4.8.1
 |8|[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)|[C#](https://github.com/WillMarciano/HackerRankTest/tree/master/Warmup/MiniMaxSum/Program.cs)|Easy|10|
 |9|[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|[C#](https://github.com/WillMarciano/HackerRankTest/tree/master/Warmup/BirthdayCakeCandles/Program.cs)|Easy|10|
 |10|[Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)|[C#](https://github.com/WillMarciano/HackerRankTest/tree/master/Warmup/BirthdayCakeCandles/Program.cs)|Easy|15|
+
+### Implementation
+
+| # | Title | Solution | Difficulty | Points |
+|---| ----- | -------- | ---------- | ------ |
+|1|[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[C#](https://github.com/WillMarciano/HackerRankTest/tree/master/Implementation/GradingStudents/Program.cs)|Easy|10|
+|2|[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|[C#]
