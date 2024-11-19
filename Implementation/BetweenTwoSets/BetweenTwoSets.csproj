@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7572896A-445B-4588-96EE-0CD63EEFA993}</ProjectGuid>
+    <ProjectGuid>{93980C4A-4F36-4972-A19D-E2B52CF34CB4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Kangaroo</RootNamespace>
-    <AssemblyName>Kangaroo</AssemblyName>
+    <RootNamespace>BetweenTwoSets</RootNamespace>
+    <AssemblyName>BetweenTwoSets</AssemblyName>
     <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

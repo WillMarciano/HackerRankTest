@@ -59,6 +59,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Number Line Jumps", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberLineJumps", "Implementation\NumberLineJumps\NumberLineJumps.csproj", "{6BB4CDF3-54EF-4406-BCB6-99FEAB836214}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - Between Two Sets", "04 - Between Two Sets", "{0470106E-26B9-4035-A551-56CF65DF82E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetweenTwoSets", "Implementation\BetweenTwoSets\BetweenTwoSets.csproj", "{93980C4A-4F36-4972-A19D-E2B52CF34CB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,10 @@ Global
 		{6BB4CDF3-54EF-4406-BCB6-99FEAB836214}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BB4CDF3-54EF-4406-BCB6-99FEAB836214}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BB4CDF3-54EF-4406-BCB6-99FEAB836214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93980C4A-4F36-4972-A19D-E2B52CF34CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93980C4A-4F36-4972-A19D-E2B52CF34CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93980C4A-4F36-4972-A19D-E2B52CF34CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93980C4A-4F36-4972-A19D-E2B52CF34CB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -148,6 +156,8 @@ Global
 		{3F8265AA-38D7-40F4-9712-5E28B495A8AA} = {F2CAD6BE-2902-4FFC-9D58-AC95F7C3FF04}
 		{3A3BB7F2-5158-4518-B49F-445C93FF1890} = {D18BBF6D-A85A-4917-8AA2-73DF22020704}
 		{6BB4CDF3-54EF-4406-BCB6-99FEAB836214} = {3A3BB7F2-5158-4518-B49F-445C93FF1890}
+		{0470106E-26B9-4035-A551-56CF65DF82E5} = {D18BBF6D-A85A-4917-8AA2-73DF22020704}
+		{93980C4A-4F36-4972-A19D-E2B52CF34CB4} = {0470106E-26B9-4035-A551-56CF65DF82E5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3F923A44-4BC8-42A0-A203-13B5E60CBB4C}
