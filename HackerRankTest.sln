@@ -71,6 +71,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06 - Subarray Division", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubarrayDivision", "Implementation\SubarrayDivision\SubarrayDivision.csproj", "{0A2B0240-CDA7-4DC5-828B-147FCBDA44F9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07 - Divisible Sum Pairs", "07 - Divisible Sum Pairs", "{DD793B9C-01C6-4E20-8843-F721CAA5D2E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisibleSumPairs", "Implementation\DivisibleSumPairs\DivisibleSumPairs.csproj", "{18A8FB7E-056E-40A2-8112-B15AA3818F88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +145,10 @@ Global
 		{0A2B0240-CDA7-4DC5-828B-147FCBDA44F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A2B0240-CDA7-4DC5-828B-147FCBDA44F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A2B0240-CDA7-4DC5-828B-147FCBDA44F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18A8FB7E-056E-40A2-8112-B15AA3818F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A8FB7E-056E-40A2-8112-B15AA3818F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A8FB7E-056E-40A2-8112-B15AA3818F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A8FB7E-056E-40A2-8112-B15AA3818F88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -178,6 +186,8 @@ Global
 		{52448643-E935-4377-A123-1A1C9F04C463} = {F4A7477C-1DDE-4846-AE9D-240CD5170AF5}
 		{9594FA6A-E733-43C4-B11E-281EA6644317} = {D18BBF6D-A85A-4917-8AA2-73DF22020704}
 		{0A2B0240-CDA7-4DC5-828B-147FCBDA44F9} = {9594FA6A-E733-43C4-B11E-281EA6644317}
+		{DD793B9C-01C6-4E20-8843-F721CAA5D2E2} = {D18BBF6D-A85A-4917-8AA2-73DF22020704}
+		{18A8FB7E-056E-40A2-8112-B15AA3818F88} = {DD793B9C-01C6-4E20-8843-F721CAA5D2E2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3F923A44-4BC8-42A0-A203-13B5E60CBB4C}

@@ -33,3 +33,4 @@ Possible HackerRank solutions with c# language using .net framework 4.8.1
 |4|[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)|[C#](https://github.com/WillMarciano/HackerRankTest/tree/master/Implementation/BetweenTwoSets/Program.cs)|Easy|10|
 |5|[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|[C#](https://github.com/WillMarciano/HackerRankTest/tree/master/Implementation/BreakingTheRecords/Program.cs)|Easy|10|
 |6|[Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)|[C#](https://github.com/WillMarciano/HackerRankTest/tree/master/Implementation/SubarrayDivision/Program.cs)|Easy|10|
+|7|[Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)|[C#](https://github.com/WillMarciano/HackerRankTest/tree/master/Implementation/DivisibleSumPairs/Program.cs)|Easy|10|
