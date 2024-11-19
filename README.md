@@ -28,4 +28,5 @@ Possible HackerRank solutions with c# language using .net framework 4.8.1
 | # | Title | Solution | Difficulty | Points |
 |---| ----- | -------- | ---------- | ------ |
 |1|[Grading Students](https://www.hackerrank.com/challenges/grading/problem)|[C#](https://github.com/WillMarciano/HackerRankTest/tree/master/Implementation/GradingStudents/Program.cs)|Easy|10|
-|2|[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|[C#]
+|2|[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|[C#](https://github.com/WillMarciano/HackerRankTest/tree/master/Implementation/ApplesAndOranges/Program.cs)|Easy|10|
+|3|[Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem)|[C#](https://github.com/WillMarciano/HackerRankTest/tree/master/Implementation/Kangaroo/Program.cs)|Easy|10|

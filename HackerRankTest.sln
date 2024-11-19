@@ -51,6 +51,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Grading Students", "01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradingStudents", "Implementation\GradingStudents\GradingStudents.csproj", "{45D3A658-B224-41DB-A177-C5040EBD7BBB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Apple And Orange", "02 - Apple And Orange", "{F2CAD6BE-2902-4FFC-9D58-AC95F7C3FF04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplesAndOranges", "Implementation\ApplesAndOranges\ApplesAndOranges.csproj", "{3F8265AA-38D7-40F4-9712-5E28B495A8AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,6 +105,10 @@ Global
 		{45D3A658-B224-41DB-A177-C5040EBD7BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45D3A658-B224-41DB-A177-C5040EBD7BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45D3A658-B224-41DB-A177-C5040EBD7BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F8265AA-38D7-40F4-9712-5E28B495A8AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F8265AA-38D7-40F4-9712-5E28B495A8AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F8265AA-38D7-40F4-9712-5E28B495A8AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F8265AA-38D7-40F4-9712-5E28B495A8AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -128,6 +136,8 @@ Global
 		{CB951C22-4AC5-45C2-95F4-7BFA375CB79E} = {0BFACA8B-E2A6-4D6C-B37B-1D2748BB64E4}
 		{EF95F34F-2AFB-4B3A-9517-715B903487AA} = {D18BBF6D-A85A-4917-8AA2-73DF22020704}
 		{45D3A658-B224-41DB-A177-C5040EBD7BBB} = {EF95F34F-2AFB-4B3A-9517-715B903487AA}
+		{F2CAD6BE-2902-4FFC-9D58-AC95F7C3FF04} = {D18BBF6D-A85A-4917-8AA2-73DF22020704}
+		{3F8265AA-38D7-40F4-9712-5E28B495A8AA} = {F2CAD6BE-2902-4FFC-9D58-AC95F7C3FF04}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3F923A44-4BC8-42A0-A203-13B5E60CBB4C}
