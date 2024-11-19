@@ -31,3 +31,4 @@ Possible HackerRank solutions with c# language using .net framework 4.8.1
 |2|[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem)|[C#](https://github.com/WillMarciano/HackerRankTest/tree/master/Implementation/ApplesAndOranges/Program.cs)|Easy|10|
 |3|[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)|[C#](https://github.com/WillMarciano/HackerRankTest/tree/master/Implementation/NumberLineJumps/Program.cs)|Easy|10|
 |4|[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)|[C#](https://github.com/WillMarciano/HackerRankTest/tree/master/Implementation/BetweenTwoSets/Program.cs)|Easy|10|
+|5|[Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)|[C#](https://github.com/WillMarciano/HackerRankTest/tree/master/Implementation/BreakingTheRecords/Program.cs)|Easy|10|
